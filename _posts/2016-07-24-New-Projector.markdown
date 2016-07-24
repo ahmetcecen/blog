@@ -1,9 +1,9 @@
 ---
 layout:     	projector
-title:     		New Projector
+title:     		PCA of Synthetic Data
 author:     	Ahmet Cecen
-tags:           projector visualization template
-subtitle:    	Some Short Description of Projector
+tags:           projector visualization
+subtitle:    	Example PCA Plot for 4 Seperable Microstructure Classes
 
-dataset:    /projectors/data.json
+dataset:    /projectors/akashdatapca.json
 ---
