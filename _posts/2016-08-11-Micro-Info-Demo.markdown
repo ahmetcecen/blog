@@ -68,7 +68,7 @@ width:100%!important
 
 # Interactive Exploration
 
-<iframe src="http://198.199.121.158:3838/MatInfDemo/" frameborder="no" class="shiny"  ></iframe>
+<iframe src="https://matintest.shinyapps.io/MatInfDemo/" frameborder="no" class="shiny"  ></iframe>
 
 
 # Function Estimation
