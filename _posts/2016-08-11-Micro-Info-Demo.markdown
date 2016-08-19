@@ -15,7 +15,7 @@ margin-left: -12.5%;
 width: 125%;
 overflow: hidden;
 position: relative;
-height: 1340px;
+height: 1560px;
 
 }
 
@@ -52,33 +52,33 @@ width:100%!important
 
 <img src="/blog/img/ideas-post-images/Workflow.png" style="width:80%">
 
-
 # Microstructure Quantification Through Spatial Statistics (Blue Steps)
 
+## Spatial Statistics
 
-## Example Random Dataset
+<img src="/blog/img/ideas-post-images/StatsExample.PNG" style="width:70%">
 
-<img src="/blog/img/ideas-post-images/Classes.png" style="width:50%">
+<img src="/blog/img/ideas-post-images/2ptExample.PNG" style="width:70%">
 
 ## PCA
 
-<img src="/blog/img/ideas-post-images/PCAEx.png">
-
-
+<img src="/blog/img/ideas-post-images/PCAExp.PNG" style="width:100%">
 
 # Interactive Exploration
 
-<iframe src="https://matintest.shinyapps.io/MatInfDemo/" frameborder="no" class="shiny"  ></iframe>
+## Example Random Dataset
 
+<img src="/blog/img/ideas-post-images/Classes.png" style="width:80%">
+
+## Exploring the Microstructure Space
+
+<iframe src="https://matintest.shinyapps.io/MatInfDemo/" frameborder="no" class="shiny"  ></iframe>
 
 # Function Estimation
 
-
-<img src="/blog/img/ideas-post-images/MPR.jpg" style="width:50%">
-
+<img src="/blog/img/ideas-post-images/Fit2.png" style="width:100%">
 
 # Reconstructions 
-
 
 <img src="/blog/img/ideas-post-images/Reconstruct.png">
 
