@@ -30,6 +30,13 @@ prose:
   ispp: true
   media: 'img'
   metadata:
+    /:
+      - name: "header-img"
+        field:
+          element: "text"
+          label: "Sub-Title (Short Description)"
+          value: ""
+  metadata:
     _posts:
       - name: "subtitle"
         field:
