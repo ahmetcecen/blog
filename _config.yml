@@ -7,7 +7,7 @@ headercolorx: "#b91111"
 
 title: Analytix
 header-img: img/home-bg.jpg
-headercolor: headercolorx
+headercolor: {{ site.headercolorx }}
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 email: ahmetcecen@gmail.com
 description: "An Integrated Scientific Blogging Template"
