@@ -30,6 +30,7 @@ prose:
   ispp: true
   media: 'img'
   metadata:
+  	\:
       - name: "title"
             field:
               element: "text"
