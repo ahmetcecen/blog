@@ -1,9 +1,13 @@
 ---
+
+headercolorx: "#b91111"
+
+---
 # Site settings
 
 title: Analytix
 header-img: img/home-bg.jpg
-headercolor: "#FFFFFF"
+headercolor: headercolorx
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 email: ahmetcecen@gmail.com
 description: "An Integrated Scientific Blogging Template"
@@ -127,5 +131,3 @@ prose:
           element: "checkbox"
           label: "Visual Workflow Chart (Some Layouts)"
           value: "true"
-
----
