@@ -9,9 +9,10 @@ tags: example demo
 theme: beige
 trans: cube
 visualworkflow: false
-published: false
+published: true
 title: Example Patterns
 ---
+
 
 
 ## Carbon Fiber
