@@ -15,7 +15,7 @@ margin-left: -12.5%;
 width: 125%;
 overflow: hidden;
 position: relative;
-height: 1560px;
+height: 1580px;
 
 }
 
@@ -27,7 +27,7 @@ margin-left: 0%;
 width: 100%;
 overflow: hidden;
 position: relative;
-height: 2871px;
+height: 2971px;
 
 }
 
@@ -75,15 +75,19 @@ More about [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis).
 
 In case of user overload, you can also access the following app at:
 
-- ShinyApps.io [Mirror 1](https://ahmetcecen.shinyapps.io/MatInfDemo/)
-- Digital Ocean [Mirror 2](http://198.199.121.158:3838/MatInfDemo/)
-- My Home Computer [Mirror 3](http://73.43.183.88:1412/)
+- [ShinyApps.io ](https://ahmetcecen.shinyapps.io/MatInfDemo/)
+- [Digital Ocean](http://198.199.121.158:3838/MatInfDemo/)
+- [My Home Computer](http://73.43.183.88:1412/)
+
+You can also find some quick picked example patterns [here](https://ahmetcecen.github.io/blog/2016/08/26/example-patterns/)
 
 <iframe src="https://ahmetcecen.shinyapps.io/MatInfDemo/" frameborder="no" class="shiny"  ></iframe>
 
 # Function Estimation
 
-We can use the above representation to fit functions of the form **Property = f(PC1,PC2,...)**.
+We can use the above representation to fit functions of the form:
+
+ **Property = f(PC1,PC2,...)**.
 
 <img src="/blog/img/ideas-post-images/Fit2.png" style="width:100%">
 
