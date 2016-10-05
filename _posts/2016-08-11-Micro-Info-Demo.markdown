@@ -4,6 +4,7 @@ title:         Microstructure Quantification Through Spatial Statistics
 author:     Ahmet Cecen
 tags: 		post R Shiny
 subtitle:  	An interactive presentation of spatial statistics and PCA
+category:  class
 ---
 <!-- Start Writing Below in Markdown -->
 

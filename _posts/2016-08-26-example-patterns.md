@@ -11,6 +11,7 @@ trans: cube
 visualworkflow: false
 published: true
 title: Example Patterns
+category: class
 ---
 
 

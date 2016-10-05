@@ -10,8 +10,10 @@
 		{% include altmetric.html %}
 
 		{% endif %}
+		
+		{% include ogmeta.html %}
 
-		<link rel="stylesheet" type="text/css" href="{{ "/plugin/projector/DataProjector.css " | prepend: site.baseurl }}">
+		<link rel="stylesheet" type="text/css" href="{{ "/plugin/projector/DataProjector.css " | prepend: site.baseurl | prepend: site.url}}">
 		
 		{% include analytics.html %}
 		
@@ -65,6 +67,8 @@
 		<script src="{{ "/plugin/projector/TrackballControls.js " | prepend: site.baseurl }}"></script>
 		
 		<script>{% include DataProjector.js %}</script>
+		
+		{{ content }}
 
 	</body>
 </html>
