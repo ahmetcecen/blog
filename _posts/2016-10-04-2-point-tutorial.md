@@ -12,3 +12,14 @@ visualworkflow: false
 published: true
 title: Example Patterns
 ---
+
+
+![Freq.png]({{site.baseurl}}/img/tutorial-resources/Freq.png)
+
+
+![Improc.png]({{site.baseurl}}/img/tutorial-resources/Improc.png)
+
+<video width="500" height="500" controls>
+  <source src="{{site.baseurl}}/img/tutorial-resources/capture.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>
