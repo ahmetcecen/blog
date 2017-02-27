@@ -80,7 +80,7 @@ In case of user overload, you can also access the following app at:
 - [Digital Ocean](http://198.199.121.158:3838/MatInfDemo/)
 - [My Home Computer](http://73.43.183.88:1412/)
 
-You can also find some quick picked example patterns [here](https://ahmetcecen.github.io/blog/2016/08/26/example-patterns/)
+You can also find some quick picked example patterns [here](https://ahmetcecen.github.io/blog/class/2016/08/26/example-patterns/)
 
 <iframe src="https://ahmetcecen.shinyapps.io/MatInfDemo/" frameborder="no" class="shiny"  ></iframe>
 
